@@ -24,9 +24,9 @@ Structure the project in steps, assign tasks to each student and integrate the c
 - Completed
 
 ## Credits:
-- Kateryna - @KLisabeth
-- Nick - @NickMarinade
-- Alejandro - @AlejoVE
+- Kateryna - [@KLisabeth](https://github.com/KLisabeth)
+- Nick - [@NickMarinade](https://github.com/NickMarinade)
+- Alejandro - [@AlejoVE](https://github.com/AlejoVE)
 - [Hack Your Future Belgium](https://hackyourfuture.be/)
 - [Wes Bos tutorial](https://courses.wesbos.com/account/access/5e6e5e7eabb2b01ab6abf06c/view/194129962)
 
